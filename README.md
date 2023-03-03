@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jesse-122
-- 👀 I’m interested in python
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on Java Project
 - 📫 You can reach through jessseakargbo@gmail.com
 
 <!---
